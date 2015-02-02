@@ -1,0 +1,18 @@
+{
+  "name": "Node-Chat-Demo",
+  "version": "0.0.1",
+  "author": "yuanzm",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-browserify": "*",
+    "grunt-contrib-clean": "*",
+    "grunt-contrib-cssmin": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-sass": "*"
+  },
+  "dependencies": {
+    "browserify": "^8.1.3"
+  }
+}
